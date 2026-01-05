@@ -1,28 +1,82 @@
-[![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://Vivekgirhare.io)
-<h1 align="center">Hi 👋, I'm Vivek Girhare</h1>
-<h3 align="center">A passionate Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
+<!-- Aesthetic Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1fdf64&height=220&section=header&text=Vivek%20Girhare%20👨‍💻&fontSize=45&fontColor=ffffff"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekgirhare&label=Profile%20views&color=0e75b6&style=flat" alt="vivekgirhare" /> </p>
-
-<p align="left"> <a href="https://twitter.com/@vivekgirhare" target="blank"><img src="https://img.shields.io/twitter/follow/@vivekgirhare?logo=twitter&style=for-the-badge" alt="@vivekgirhare" /></a> </p>
-
-- 📫 How to reach me **Vivekgirhare123@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@vivekgirhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vivekgirhare" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vivek girhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek girhare" height="30" width="40" /></a>
-<a href="https://instagram.com/vivekgirhare123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivekgirhare123" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vivekgirhare123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vivekgirhare123" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vivekgirhare123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vivekgirhare123" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1fdf64&center=true&vCenter=true&width=600&size=26&lines=Java+Full+Stack+Developer+🔥;Passionate+Developer+From+India🇮🇳;Always+Learning+New+Things+💻;Building+Cool+Projects✨">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vivekgirhare&label=Profile%20Views&color=00e676&style=for-the-badge"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekgirhare&show_icons=true&locale=en&layout=compact" alt="vivekgirhare" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivekgirhare&show_icons=true&locale=en" alt="vivekgirhare" /></p>
+## 🧠 About Me
+- 🎓 B.Tech IT | Passionate Tech Enthusiast  
+- 💻 **Java Full Stack Developer**
+  - Backend: Java | Spring Boot | REST APIs  
+  - Frontend: HTML | CSS | JavaScript | React  
+  - Database: MySQL | MongoDB  
+- ☁️ Learning Cloud & Scalable Systems  
+- 🚀 Love building real-world impactful projects  
+- 📬 Reach Me: **vivekgirhare123@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekgirhare&" alt="vivekgirhare" /></p>
+---
+
+## 🌐 Connect With Me
+<p align="center">
+<a href="https://twitter.com/vivekgirhare"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"></a>
+<a href="https://linkedin.com/in/vivek-girhare"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
+<a href="https://instagram.com/vivekgirhare123"><img src="https://img.shields.io/badge/Instagram-e84393?style=for-the-badge&logo=instagram"></a>
+<a href="https://www.hackerrank.com/vivekgirhare123"><img src="https://img.shields.io/badge/HackerRank-1ba94c?style=for-the-badge&logo=hackerrank"></a>
+</p>
+
+---
+
+## 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,python,nodejs,flutter,dart,c,git,github,linux,mysql,mongodb,docker,azure,gcp" />
+</p>
+
+---
+
+## 🧑‍💻 Cool Coding Vibe
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" width="450"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vivekgirhare&show_icons=true&theme=radical" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekgirhare&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekgirhare&layout=compact&theme=radical"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vivekgirhare/vivekgirhare/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+## ⚡ Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekgirhare&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🚀 Fun Coding Loop
+```python
+while True:
+    code()
+    learn()
+    improve()
+
