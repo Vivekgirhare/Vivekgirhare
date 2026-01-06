@@ -47,18 +47,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vivekgirhare&show_icons=true&theme=radical" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekgirhare&theme=radical" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekgirhare&layout=compact&theme=radical"/>
-</p>
-
----
-
 ## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/vivekgirhare/vivekgirhare/output/github-contribution-grid-snake.svg">
